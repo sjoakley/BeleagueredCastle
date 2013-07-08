@@ -12,10 +12,12 @@
     "config": "0.4.25",
     "express": "3.1.x",
     "express-validator": "0.3.2",
+    "mysql": "2.0.0-alpha8",
     "needle": "0.5.x",
-    "sequelize": "~2.0.0-alpha2"
+    "password-hash": "1.2.1",
+    "sequelize": "~2.0.0-alpha2",
     "uuid": "1.4.x",
-    "yaml": "0.2.3",
+    "yaml": "0.2.3"
   },
   "engines": {
     "node": "0.10.x",
